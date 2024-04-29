@@ -31,3 +31,7 @@ The following are the tools I use for graphic design.
 "Responsive Web Design" from freeCodeCamp
 
 [![Static Badge](https://img.shields.io/badge/Verify%20certification-white?style=for-the-badge&logo=freecodecamp&logoSize=auto&labelColor=%23000)](https://www.freecodecamp.org/certification/shuvo_sarkar/responsive-web-design)
+
+## Projects
+
+You will find all my learning stage projects in my github profile "Repositories" section.
